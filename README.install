@@ -1,0 +1,3 @@
+$ brew install pipenv # or whatever works for your OS
+$ pipenv install
+$ pipenv run gunicorn hello:app
